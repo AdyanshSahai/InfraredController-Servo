@@ -1,6 +1,6 @@
 # InfraredController-Servo
 
-!!!!! PLEASE REMEMBER ATTRIBUTION!!!!!
+ !!!!! PLEASE REMEMBER ATTRIBUTION!!!!!
 
 This is an Infrared controller that controls servo motors by reading the values from 2 infrared sensors (one for each motor).
  
@@ -30,7 +30,7 @@ Software requirements:
 -> Servo motors library
   
 
-!!!!! PLEASE REMEMBER ATTRIBUTION!!!!!
+ !!!!! PLEASE REMEMBER ATTRIBUTION!!!!!
 
 
 I may post a YouTube video about this in the future, so here is a link to my channel:
