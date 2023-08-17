@@ -2,32 +2,32 @@
 
 !!!!! PLEASE REMEMBER ATTRIBUTION!!!!!
 
-	This is an Infrared controller that controls servo motors by reading the values from 2 infrared sensors (one for each motor).
+This is an Infrared controller that controls servo motors by reading the values from 2 infrared sensors (one for each motor).
  
  
  One can use this in a variety of ways, including:
  
-	- Turning sensors upside-down and controlling servos with your fist on a table
+-> Turning sensors upside-down and controlling servos with your fist on a table
  
- 	- Performing 'magic' by controlling servos with the tips of your fingers
+-> Performing 'magic' by controlling servos with the tips of your fingers
   
-	- ... or just showing off to friends and family!
+-> ... or just showing off to friends and family!
  
 
 Components List:
 
-	-> 2 Servo Motors
+-> 2 Servo Motors
+
+-> Arduino Uno / Nano
  
-	-> Arduino Uno / Nano
- 
-	-> 2 Infrared Sensors
+-> 2 Infrared Sensors
  
 
- Software requirements:
+Software requirements:
  
-  -> Arduino IDE
+-> Arduino IDE
   
-  -> Servo motors library
+-> Servo motors library
   
 
 !!!!! PLEASE REMEMBER ATTRIBUTION!!!!!
